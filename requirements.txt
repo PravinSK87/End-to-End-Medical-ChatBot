@@ -6,3 +6,4 @@ pypdf
 chromadb
 langchain-google-genai
 -e .
+python-dotenv
